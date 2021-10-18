@@ -1,0 +1,73 @@
+body {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    width: 1201px;
+}
+img{
+width: 150px;
+height: 200px;
+margin-top: -92px;
+}
+div:hover{
+  background-color: violet;
+}
+h1{
+   font-size:20px;
+   color: white;
+   text-align: right;
+}
+p{
+    color: white;
+    text-align: right;
+}
+div {
+    border-radius: 15px;
+    margin-top: 10px;
+}
+.div1 {
+    width: 300px;
+    height: 200px;
+    background: linear-gradient(rgb(73, 24, 250), rgb(161, 154, 247));
+   
+}
+.div2 {
+    width: 300px;
+    height: 200px;
+    background: linear-gradient(rgb(238, 22, 22), rgb(173, 25, 5));
+}
+.div3 {
+    width: 300px;
+    height: 200px;
+    background: linear-gradient(rgb(43, 4, 37), rgb(74, 10, 134));
+}
+.div4 {
+    width: 300px;
+    height: 200px;
+    background: linear-gradient(rgb(160, 9, 9), rgb(80, 5, 5));
+}
+#spider_img {
+    margin-top: -50px;
+}
+.div5 {
+    width: 300px;
+    height: 200px;
+    background: linear-gradient(rgb(73, 24, 250), rgb(161, 154, 247));
+ 
+   
+}
+.div6 {
+    width: 300px;
+    height: 200px;
+    background: linear-gradient(rgb(238, 22, 22), rgb(173, 25, 5));
+}
+.div7 {
+    width: 300px;
+    height: 200px;
+    background: linear-gradient(rgb(43, 4, 37), rgb(74, 10, 134));
+}
+.div8 {
+    width: 300px;
+    height: 200px;
+    background: linear-gradient(rgb(160, 9, 9), rgb(80, 5, 5));
+}
